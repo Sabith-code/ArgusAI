@@ -1,0 +1,78 @@
+===========================================================================
+PHASE 3 EXTRACTION DETAILED REPORT — Brand: Nike
+===========================================================================
+Started At:               2026-09-25T10:15:49.833787+00:00
+Completed At:             2026-09-25T11:32:26.167825+00:00
+Total Classified Input:   77
+Successful Extractions:   56
+  - Direct HTTP:          45
+  - Playwright Fallback:  11
+Failed Extractions:       21
+
+--- Extraction Method Breakdown ---
+  direct_trafilatura           45
+  failed                       21
+  playwright_trafilatura       11
+
+--- Fallback Reasons for Failed Extractions ---
+  [1x] Direct HTTP: [Direct HTTP error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))] | Playwright: [Playwright error: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://runrepeat.com/catalog/nike-running-shoes
+Call log:
+  - navigating to "https://runrepeat.com/catalog/nike-running-shoes", waiting until "domcontentloaded"
+]
+  [1x] Direct HTTP: [Direct HTTP error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))] | Playwright: [Playwright error: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://runrepeat.com/nike-vomero-premium
+Call log:
+  - navigating to "https://runrepeat.com/nike-vomero-premium", waiting until "domcontentloaded"
+]
+  [1x] Direct HTTP: [Direct HTTP error: HTTPSConnectionPool(host='nike.com', port=443): Max retries exceeded with url: /w/new-upcoming-drops-k0gk (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000246F3B762A0>: Failed to resolve 'nike.com' ([Errno 11001] getaddrinfo failed)"))] | Playwright: [Playwright timeout after 15s]
+  [8x] Direct HTTP: [Direct HTTP timeout after 15s] | Playwright: [Playwright timeout after 15s]
+  [1x] Direct HTTP: [Direct HTTP trafilatura: extracted text below threshold] | Playwright: [Playwright trafilatura: extracted text below threshold]
+  [1x] Direct HTTP: [HTTP status 400] | Playwright: [Playwright trafilatura: trafilatura returned empty/None]
+  [1x] Direct HTTP: [HTTP status 401] | Playwright: [Playwright trafilatura: trafilatura returned empty/None]
+  [1x] Direct HTTP: [HTTP status 403] | Playwright: [Playwright timeout after 15s]
+  [3x] Direct HTTP: [HTTP status 403] | Playwright: [Playwright trafilatura: extracted text below threshold]
+  [2x] Direct HTTP: [HTTP status 403] | Playwright: [Playwright trafilatura: trafilatura returned empty/None]
+  [1x] Direct HTTP: [HTTP status 404] | Playwright: [Playwright trafilatura: extracted text below threshold]
+
+--- Timeout Analysis ---
+Total Mentions hitting a timeout: 10
+  - https://nike.in/: Direct HTTP: [Direct HTTP timeout after 15s] | Playwright: [Playwright timeout after 15s]
+  - https://nike.in/lp/men-desktop: Direct HTTP: [Direct HTTP timeout after 15s] | Playwright: [Playwright timeout after 15s]
+  - https://nike.in/lp/women-desktop: Direct HTTP: [Direct HTTP timeout after 15s] | Playwright: [Playwright timeout after 15s]
+  - https://lawbeat.in/news-updates/nike-wins-trademark-suit-delhi-court-orders-destruction-of-counterfeit-shoes-with-swoosh-jordan-marks-awards-31-lakh-damages-1626694: Direct HTTP: [Direct HTTP timeout after 15s] | Playwright: [Playwright timeout after 15s]
+  - https://bloomberg.com/latest/nike: Direct HTTP: [HTTP status 403] | Playwright: [Playwright timeout after 15s]
+  - https://nike.com/w/new-upcoming-drops-k0gk: Direct HTTP: [Direct HTTP error: HTTPSConnectionPool(host='nike.com', port=443): Max retries exceeded with url: /w/new-upcoming-drops-k0gk (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000246F3B762A0>: Failed to resolve 'nike.com' ([Errno 11001] getaddrinfo failed)"))] | Playwright: [Playwright timeout after 15s]
+  - https://nike.in/help-center/talk-to-us: Direct HTTP: [Direct HTTP timeout after 15s] | Playwright: [Playwright timeout after 15s]
+  - https://nike.in/help-center: Direct HTTP: [Direct HTTP timeout after 15s] | Playwright: [Playwright timeout after 15s]
+  - https://nike.in/cp/india-consumer-care-policy: Direct HTTP: [Direct HTTP timeout after 15s] | Playwright: [Playwright timeout after 15s]
+  - https://nike.in/cp/terms-conditions: Direct HTTP: [Direct HTTP timeout after 15s] | Playwright: [Playwright timeout after 15s]
+
+--- Sample Direct HTTP Success ---
+  URL:         https://en.wikipedia.org/wiki/Nike,_Inc.
+  Author:      Authority control databases
+  Date:        2002-09-16
+  Text Length: 87112 chars, 13923 words
+  Text Snippet: Nike, Inc. | Nike, Inc. |  |  |---|---| | Formerly | Blue Ribbon Sports, Inc. (1964–1971) |  |---|---| | Type | Public |  | ISIN | US6541061031 |  | Industry |  |  | Founded | January 25, 1964 |  | Fo...
+
+--- Sample Playwright Fallback Success ---
+  URL:         https://nike.com/
+  Author:      None
+  Date:        2026-01-01
+  Text Length: 274 chars, 39 words
+  Text Snippet: Nike Official Online Store India Featured Trending Fresh Drops 8 sizes Selling price ₹10,095 6 sizes Selling price ₹10,636 Actual price ₹13,295 Discounted Percentage20% 7 sizes Selling price ₹10,396 A...
+
+--- Schema Field Completeness (77 ExtractedMentions) ---
+  title                  77/77
+  snippet                77/77
+  canonical_url          77/77
+  original_url           77/77
+  dedup_key              77/77
+  domain                 77/77
+  source_type            77/77
+  is_official            77/77
+  originating_queries    77/77
+  searxng_engines        77/77
+  discovered_at          77/77
+  text                   56/77
+  extraction_method      77/77
+  extraction_status      77/77
+  extracted_at           77/77

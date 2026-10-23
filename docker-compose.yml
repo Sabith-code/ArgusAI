@@ -1,0 +1,13 @@
+# Brand Reputation Early-Warning System
+# Phase 1: SearXNG discovery service only
+# Additional services (MongoDB, FastAPI, React) will be added in later phases.
+
+services:
+  searxng:
+    image: searxng/searxng:latest
+    container_name: brand-monitor-searxng
+    ports:
+      - "${SEARXNG_PORT:-8080}:8080"
+    volumes:
+      - ./searxng:/etc/searxng:rw
+    restart: unless-stopped

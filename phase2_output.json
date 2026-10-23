@@ -1,0 +1,1354 @@
+{
+  "brand": "Nike",
+  "brand_config": {
+    "name": "Nike",
+    "official_domains": [
+      "nike.com"
+    ],
+    "official_accounts": []
+  },
+  "started_at": "2026-09-25T10:15:49.833787+00:00",
+  "completed_at": "2026-09-25T10:16:13.598829+00:00",
+  "queries_executed": [
+    "\"Nike\"",
+    "\"Nike\" news",
+    "\"Nike\" review OR reviews",
+    "\"Nike\" complaint OR problem OR issue",
+    "\"Nike\" praise OR great OR excellent",
+    "\"Nike\" announcement OR launch OR release",
+    "\"Nike\" discussion OR opinions OR thoughts",
+    "\"Nike\" controversy OR backlash"
+  ],
+  "total_raw_results": 80,
+  "total_classified_results": 77,
+  "exact_duplicates_merged": 3,
+  "near_duplicates_flagged": 2,
+  "source_type_counts": {
+    "other": 24,
+    "official": 15,
+    "social_media": 5,
+    "ecommerce": 5,
+    "youtube": 6,
+    "news": 11,
+    "review": 11
+  },
+  "official_count": 15,
+  "results": [
+    {
+      "title": "Nike. Just Do It. Nike IN",
+      "snippet": "Nike - Official Online Store for Athletic Shoes, Clothing & Sports Gear. Shop the latest Nike products and enjoy free shipping.",
+      "canonical_url": "https://nike.in/",
+      "original_url": "https://www.nike.in/",
+      "dedup_key": "nike.in/",
+      "domain": "nike.in",
+      "source_type": "other",
+      "is_official": false,
+      "originating_queries": [
+        "\"Nike\"",
+        "\"Nike\" news"
+      ],
+      "searxng_engines": [
+        "google cse"
+      ],
+      "discovered_at": "2026-09-25T10:15:52.873969+00:00"
+    },
+    {
+      "title": "Nike. Just Do It. Nike.com",
+      "snippet": "Inspiring the world's athletes, Nike delivers innovative products, experiences and services.",
+      "canonical_url": "https://nike.com/",
+      "original_url": "https://www.nike.com/",
+      "dedup_key": "nike.com/",
+      "domain": "nike.com",
+      "source_type": "official",
+      "is_official": true,
+      "originating_queries": [
+        "\"Nike\""
+      ],
+      "searxng_engines": [
+        "google cse"
+      ],
+      "discovered_at": "2026-09-25T10:15:52.873969+00:00"
+    },
+    {
+      "title": "Nike, Inc. - Wikipedia",
+      "snippet": "Nike, Inc. is an American athletic footwear and apparel corporation headquartered near Beaverton, Oregon. ... It is the world's largest supplier of athletic shoes ...",
+      "canonical_url": "https://en.wikipedia.org/wiki/Nike,_Inc.",
+      "original_url": "https://en.wikipedia.org/wiki/Nike,_Inc.",
+      "dedup_key": "en.wikipedia.org/wiki/Nike,_Inc.",
+      "domain": "en.wikipedia.org",
+      "source_type": "other",
+      "is_official": false,
+      "originating_queries": [
+        "\"Nike\""
+      ],
+      "searxng_engines": [
+        "google cse"
+      ],
+      "discovered_at": "2026-09-25T10:15:52.873969+00:00"
+    },
+    {
+      "title": "Nike (@nike) · Beaverton, OR - Instagram",
+      "snippet": "Nike Atelier for Sha'Carri Richardson reflects the beauty of London after rainfall through luminous details, weathered textures, and sculptural silhouettes ...",
+      "canonical_url": "https://instagram.com/nike/?hl=en",
+      "original_url": "https://www.instagram.com/nike/?hl=en",
+      "dedup_key": "instagram.com/nike/?hl=en",
+      "domain": "instagram.com",
+      "source_type": "social_media",
+      "is_official": false,
+      "originating_queries": [
+        "\"Nike\""
+      ],
+      "searxng_engines": [
+        "google cse"
+      ],
+      "discovered_at": "2026-09-25T10:15:52.873969+00:00"
+    },
+    {
+      "title": "Nike - LinkedIn",
+      "snippet": "Nike | 6404449 followers on LinkedIn. NIKE, Inc. is a purpose driven company fueled by a shared commitment to move the world forward through the power of ...",
+      "canonical_url": "https://linkedin.com/company/nike",
+      "original_url": "https://www.linkedin.com/company/nike",
+      "dedup_key": "linkedin.com/company/nike",
+      "domain": "linkedin.com",
+      "source_type": "social_media",
+      "is_official": false,
+      "originating_queries": [
+        "\"Nike\""
+      ],
+      "searxng_engines": [
+        "google cse"
+      ],
+      "discovered_at": "2026-09-25T10:15:52.873969+00:00"
+    },
+    {
+      "title": "Men - Nike. Just Do It. Nike IN",
+      "snippet": "Nike Promina Men's Walking Shoes · Nike Promina · Selling price ₹4,995 ; Nike P-6000 Winterized Shoes · Nike P-6000 · Selling price ₹9,695 ; Nike Pegasus 42 Men's ...",
+      "canonical_url": "https://nike.in/lp/men-desktop",
+      "original_url": "https://www.nike.in/lp/men-desktop",
+      "dedup_key": "nike.in/lp/men-desktop",
+      "domain": "nike.in",
+      "source_type": "other",
+      "is_official": false,
+      "originating_queries": [
+        "\"Nike\""
+      ],
+      "searxng_engines": [
+        "google cse"
+      ],
+      "discovered_at": "2026-09-25T10:15:52.873969+00:00"
+    },
+    {
+      "title": "Welcome to NIKE, Inc. — - About Nike",
+      "snippet": "NIKE, Inc. is a team comprised of the Nike, Jordan and Converse brands driven by a shared purpose to leave an enduring impact. Who We Are.",
+      "canonical_url": "https://about.nike.com/en/company",
+      "original_url": "https://about.nike.com/en/company",
+      "dedup_key": "about.nike.com/en/company",
+      "domain": "about.nike.com",
+      "source_type": "official",
+      "is_official": true,
+      "originating_queries": [
+        "\"Nike\"",
+        "\"Nike\" news"
+      ],
+      "searxng_engines": [
+        "google cse"
+      ],
+      "discovered_at": "2026-09-25T10:15:52.873969+00:00"
+    },
+    {
+      "title": "Men's Shoes, Clothing & Accessories. Nike.com",
+      "snippet": "Discover the latest men's lifestyle and activewear from Nike. Browse new footwear and apparel for all levels of activity.",
+      "canonical_url": "https://nike.com/men",
+      "original_url": "https://www.nike.com/men",
+      "dedup_key": "nike.com/men",
+      "domain": "nike.com",
+      "source_type": "official",
+      "is_official": true,
+      "originating_queries": [
+        "\"Nike\""
+      ],
+      "searxng_engines": [
+        "google cse"
+      ],
+      "discovered_at": "2026-09-25T10:15:52.873969+00:00"
+    },
+    {
+      "title": "NIKE, Inc. Newsroom: Press Releases, Product Announcements and ...",
+      "snippet": "Official NIKE, Inc. News - About Nike.",
+      "canonical_url": "https://about.nike.com/en/newsroom",
+      "original_url": "https://about.nike.com/en/newsroom",
+      "dedup_key": "about.nike.com/en/newsroom",
+      "domain": "about.nike.com",
+      "source_type": "official",
+      "is_official": true,
+      "originating_queries": [
+        "\"Nike\"",
+        "\"Nike\" news"
+      ],
+      "searxng_engines": [
+        "google cse"
+      ],
+      "discovered_at": "2026-09-25T10:15:52.873969+00:00"
+    },
+    {
+      "title": "Sustainability — NIKE, Inc. - About Nike",
+      "snippet": "NIKE, Inc. exists to serve athletes.* Since Bill Bowerman's first prototype, we have reimagined products to help athletes push barriers and achieve their ...",
+      "canonical_url": "https://about.nike.com/en/mission/focus-areas/sustainability",
+      "original_url": "https://about.nike.com/en/mission/focus-areas/sustainability",
+      "dedup_key": "about.nike.com/en/mission/focus-areas/sustainability",
+      "domain": "about.nike.com",
+      "source_type": "official",
+      "is_official": true,
+      "originating_queries": [
+        "\"Nike\""
+      ],
+      "searxng_engines": [
+        "google cse"
+      ],
+      "discovered_at": "2026-09-25T10:15:52.873969+00:00"
+    },
+    {
+      "title": "Nike - Facebook",
+      "snippet": "Nike. 39527120 followers · 76011 talking about this · 18382 were here. Just Do It.",
+      "canonical_url": "https://facebook.com/nike/",
+      "original_url": "https://www.facebook.com/nike/",
+      "dedup_key": "facebook.com/nike/",
+      "domain": "facebook.com",
+      "source_type": "social_media",
+      "is_official": false,
+      "originating_queries": [
+        "\"Nike\""
+      ],
+      "searxng_engines": [
+        "google cse"
+      ],
+      "discovered_at": "2026-09-25T10:15:52.873969+00:00"
+    },
+    {
+      "title": "Nike - Shop for Nike Apparels Online in India | Myntra",
+      "snippet": "Upgrade your sportswear collection with Nike at Myntra's BFF Sale. Discover amazing offers, including a minimum 50% off. Shop now!",
+      "canonical_url": "https://myntra.com/nike",
+      "original_url": "https://www.myntra.com/nike",
+      "dedup_key": "myntra.com/nike",
+      "domain": "myntra.com",
+      "source_type": "ecommerce",
+      "is_official": false,
+      "originating_queries": [
+        "\"Nike\""
+      ],
+      "searxng_engines": [
+        "google cse"
+      ],
+      "discovered_at": "2026-09-25T10:15:52.873969+00:00"
+    },
+    {
+      "title": "Buy Nike Shoes Online in India – Sneakers & Apparel - VegNonVeg",
+      "snippet": "Discover the latest Nike sneakers at VegNonVeg. Shop iconic styles like Air Force 1, Dunks & Air Max online in India. Latest Nike Sneakers Online & free ...",
+      "canonical_url": "https://vegnonveg.com/brand/nike",
+      "original_url": "https://www.vegnonveg.com/brand/nike",
+      "dedup_key": "vegnonveg.com/brand/nike",
+      "domain": "vegnonveg.com",
+      "source_type": "other",
+      "is_official": false,
+      "originating_queries": [
+        "\"Nike\""
+      ],
+      "searxng_engines": [
+        "google cse"
+      ],
+      "discovered_at": "2026-09-25T10:15:52.873969+00:00"
+    },
+    {
+      "title": "Women - Nike.in",
+      "snippet": "Nike - Official Online Store for Athletic Shoes, Clothing & Sports Gear. Shop the latest Nike products and enjoy free shipping.",
+      "canonical_url": "https://nike.in/lp/women-desktop",
+      "original_url": "https://www.nike.in/lp/women-desktop",
+      "dedup_key": "nike.in/lp/women-desktop",
+      "domain": "nike.in",
+      "source_type": "other",
+      "is_official": false,
+      "originating_queries": [
+        "\"Nike\""
+      ],
+      "searxng_engines": [
+        "google cse"
+      ],
+      "discovered_at": "2026-09-25T10:15:52.873969+00:00",
+      "near_duplicate_of": "https://nike.in/",
+      "near_duplicate_score": 1.0
+    },
+    {
+      "title": "NIKE - Amazon.in",
+      "snippet": "Text reads 'NIKE IS NOW ON AMAZON' and 'Gear up with the best. Text reads ... Nike Pegasus 41 running shoe featuring white mesh upper. Text reads \"LEGEND ...",
+      "canonical_url": "https://amazon.in/stores/NIKE/page/3EBFBE65-0F0F-4C25-9CE6-65BEA11100BC",
+      "original_url": "https://www.amazon.in/stores/NIKE/page/3EBFBE65-0F0F-4C25-9CE6-65BEA11100BC",
+      "dedup_key": "amazon.in/stores/NIKE/page/3EBFBE65-0F0F-4C25-9CE6-65BEA11100BC",
+      "domain": "amazon.in",
+      "source_type": "ecommerce",
+      "is_official": false,
+      "originating_queries": [
+        "\"Nike\""
+      ],
+      "searxng_engines": [
+        "google cse"
+      ],
+      "discovered_at": "2026-09-25T10:15:52.873969+00:00"
+    },
+    {
+      "title": "Nike - YouTube",
+      "snippet": "Nike ; Nike Running. 12 · The Best of Nike Running ; Nike Athletes. 14. What Are You Working On? (Season 2) ; Nike For Kids. 16 · Nike x LEGO Creators.",
+      "canonical_url": "https://youtube.com/user/nike",
+      "original_url": "https://www.youtube.com/user/nike",
+      "dedup_key": "youtube.com/user/nike",
+      "domain": "youtube.com",
+      "source_type": "youtube",
+      "is_official": false,
+      "originating_queries": [
+        "\"Nike\""
+      ],
+      "searxng_engines": [
+        "google cse"
+      ],
+      "discovered_at": "2026-09-25T10:15:52.873969+00:00"
+    },
+    {
+      "title": "Nike - X",
+      "snippet": "Classic Nike Football films reimagined brick by brick. The Nike Football x LEGO® Collection kicks off June 4.",
+      "canonical_url": "https://x.com/Nike",
+      "original_url": "https://x.com/Nike",
+      "dedup_key": "x.com/Nike",
+      "domain": "x.com",
+      "source_type": "social_media",
+      "is_official": false,
+      "originating_queries": [
+        "\"Nike\""
+      ],
+      "searxng_engines": [
+        "google cse"
+      ],
+      "discovered_at": "2026-09-25T10:15:52.873969+00:00"
+    },
+    {
+      "title": "Nike - Wikipedia",
+      "snippet": "Arts, entertainment, and media · Nike Award, a Polish language literature prize · The Winged Victory of Samothrace, also known as the Niké of Samothrace, an ...",
+      "canonical_url": "https://en.wikipedia.org/wiki/Nike",
+      "original_url": "https://en.wikipedia.org/wiki/Nike",
+      "dedup_key": "en.wikipedia.org/wiki/Nike",
+      "domain": "en.wikipedia.org",
+      "source_type": "other",
+      "is_official": false,
+      "originating_queries": [
+        "\"Nike\""
+      ],
+      "searxng_engines": [
+        "google cse"
+      ],
+      "discovered_at": "2026-09-25T10:15:52.873969+00:00"
+    },
+    {
+      "title": "Welcome to Nike - Sign In",
+      "snippet": "By continuing, I agree to Nike's Privacy Policy and Terms of Use. Continue.",
+      "canonical_url": "https://nike.com/login",
+      "original_url": "https://www.nike.com/login",
+      "dedup_key": "nike.com/login",
+      "domain": "nike.com",
+      "source_type": "official",
+      "is_official": true,
+      "originating_queries": [
+        "\"Nike\""
+      ],
+      "searxng_engines": [
+        "google cse"
+      ],
+      "discovered_at": "2026-09-25T10:15:52.873969+00:00"
+    },
+    {
+      "title": "Buy Original Nike products Online in India - Ajio",
+      "snippet": "NIKE Shop Online. Buy NIKE products online in India. Huge collection. Order now and avail Great Offers , Cash on Delivery, Easy Returns and Exchange.",
+      "canonical_url": "https://ajio.com/b/nike",
+      "original_url": "https://www.ajio.com/b/nike",
+      "dedup_key": "ajio.com/b/nike",
+      "domain": "ajio.com",
+      "source_type": "ecommerce",
+      "is_official": false,
+      "originating_queries": [
+        "\"Nike\""
+      ],
+      "searxng_engines": [
+        "google cse"
+      ],
+      "discovered_at": "2026-09-25T10:15:52.873969+00:00"
+    },
+    {
+      "title": "NIKE, Inc. Newsroom: Press Releases, Product Announcements and ...",
+      "snippet": "1 hour ago ... News Articles · Nike Unveils Keely Hodgkinson's One-of-One Speed Suit: A Bespoke Expression of Racing Innovation · Nike and the University of Miami Reunite in a ...",
+      "canonical_url": "https://about.nike.com/en/newsroom/releases",
+      "original_url": "https://about.nike.com/en/newsroom/releases",
+      "dedup_key": "about.nike.com/en/newsroom/releases",
+      "domain": "about.nike.com",
+      "source_type": "official",
+      "is_official": true,
+      "originating_queries": [
+        "\"Nike\" news"
+      ],
+      "searxng_engines": [
+        "google cse"
+      ],
+      "discovered_at": "2026-09-25T10:15:55.362412+00:00"
+    },
+    {
+      "title": "Product News. Nike.com",
+      "snippet": "PRODUCT NEWS · The Pegasus 42: A Powerful Update for the Beloved Nike Road Running Shoe · A Behind-the-Scenes Look at the Return of the AJ11 Gamma · Nike x ...",
+      "canonical_url": "https://nike.com/product-news",
+      "original_url": "https://www.nike.com/product-news",
+      "dedup_key": "nike.com/product-news",
+      "domain": "nike.com",
+      "source_type": "official",
+      "is_official": true,
+      "originating_queries": [
+        "\"Nike\" news"
+      ],
+      "searxng_engines": [
+        "google cse"
+      ],
+      "discovered_at": "2026-09-25T10:15:55.362412+00:00"
+    },
+    {
+      "title": "News, Events and Reports - Nike Investor Relations",
+      "snippet": "Past Events and Presentations ; 09/08/2026. 2026 Annual Shareholders Meeting ; 06/30/2026. Q4 FY26 NIKE Inc., Earnings Call ; 03/31/2026. Q3 FY26 NIKE Inc., ...",
+      "canonical_url": "https://investors.nike.com/investors/news-events-and-reports/default.aspx",
+      "original_url": "https://investors.nike.com/investors/news-events-and-reports/default.aspx",
+      "dedup_key": "investors.nike.com/investors/news-events-and-reports/default.aspx",
+      "domain": "investors.nike.com",
+      "source_type": "official",
+      "is_official": true,
+      "originating_queries": [
+        "\"Nike\" news"
+      ],
+      "searxng_engines": [
+        "google cse"
+      ],
+      "discovered_at": "2026-09-25T10:15:55.362412+00:00"
+    },
+    {
+      "title": "Nike Inc (NKE) Stock Price & News - Google Finance",
+      "snippet": "3 hours ago ... Nike Inc. $35.99. arrow_downward. -0.17%. (-0.060) 1D. $36.00. arrow_upward. +0.03% (+0.0100). bedtimeAfter hours. Closed: Sep 24, 4:00:06 PM GMT-4 · USD.",
+      "canonical_url": "https://google.com/finance/quote/NKE:NYSE",
+      "original_url": "https://www.google.com/finance/quote/NKE:NYSE",
+      "dedup_key": "google.com/finance/quote/NKE:NYSE",
+      "domain": "google.com",
+      "source_type": "other",
+      "is_official": false,
+      "originating_queries": [
+        "\"Nike\" news"
+      ],
+      "searxng_engines": [
+        "google cse"
+      ],
+      "discovered_at": "2026-09-25T10:15:55.362412+00:00"
+    },
+    {
+      "title": "New Releases. Nike.com",
+      "snippet": "Find new releases of shoes, apparel and gear at Nike.com.",
+      "canonical_url": "https://nike.com/w/new-3n82y",
+      "original_url": "https://www.nike.com/w/new-3n82y",
+      "dedup_key": "nike.com/w/new-3n82y",
+      "domain": "nike.com",
+      "source_type": "official",
+      "is_official": true,
+      "originating_queries": [
+        "\"Nike\" news"
+      ],
+      "searxng_engines": [
+        "google cse"
+      ],
+      "discovered_at": "2026-09-25T10:15:55.362412+00:00"
+    },
+    {
+      "title": "NKE: NIKE, Inc. - Stock Price, Quote and News - CNBC",
+      "snippet": "Get NIKE, Inc. (NKE:NYSE) real-time stock quotes, news, price and financial information from CNBC.",
+      "canonical_url": "https://cnbc.com/quotes/NKE",
+      "original_url": "https://www.cnbc.com/quotes/NKE",
+      "dedup_key": "cnbc.com/quotes/NKE",
+      "domain": "cnbc.com",
+      "source_type": "news",
+      "is_official": false,
+      "originating_queries": [
+        "\"Nike\" news"
+      ],
+      "searxng_engines": [
+        "google cse"
+      ],
+      "discovered_at": "2026-09-25T10:15:55.362412+00:00"
+    },
+    {
+      "title": "Nike, Inc. - BBC News",
+      "snippet": "6 hours ago ... Nike, Inc. · The World Cup of adverts: How brands are competing to entertain, not simply sell · The Chinese sports brand taking on Nike and Adidas · US probes Nike ...",
+      "canonical_url": "https://bbc.com/news/topics/czv6r8w2vqqt",
+      "original_url": "https://www.bbc.com/news/topics/czv6r8w2vqqt",
+      "dedup_key": "bbc.com/news/topics/czv6r8w2vqqt",
+      "domain": "bbc.com",
+      "source_type": "news",
+      "is_official": false,
+      "originating_queries": [
+        "\"Nike\" news"
+      ],
+      "searxng_engines": [
+        "google cse"
+      ],
+      "discovered_at": "2026-09-25T10:15:55.362412+00:00"
+    },
+    {
+      "title": "NIKE, Inc. (NKE) Stock Price, News, Quote & History - Yahoo Finance",
+      "snippet": "3 hours ago ... Nike heads into fiscal Q1 results on Oct. 1 with sentiment still cautious. Recent coverage centers on weak demand, high inventories, and promotional ...",
+      "canonical_url": "https://finance.yahoo.com/quote/NKE/",
+      "original_url": "https://finance.yahoo.com/quote/NKE/",
+      "dedup_key": "finance.yahoo.com/quote/NKE/",
+      "domain": "finance.yahoo.com",
+      "source_type": "news",
+      "is_official": false,
+      "originating_queries": [
+        "\"Nike\" news"
+      ],
+      "searxng_engines": [
+        "google cse"
+      ],
+      "discovered_at": "2026-09-25T10:15:55.362412+00:00"
+    },
+    {
+      "title": "NIKE, Inc. (NKE) - Yahoo Finance",
+      "snippet": "Nike heads into fiscal Q1 results on Oct. 1 with sentiment still cautious. Recent coverage centers on weak demand, high inventories, and promotional ...",
+      "canonical_url": "https://finance.yahoo.com/quote/NKE/news/",
+      "original_url": "https://finance.yahoo.com/quote/NKE/news/",
+      "dedup_key": "finance.yahoo.com/quote/NKE/news/",
+      "domain": "finance.yahoo.com",
+      "source_type": "news",
+      "is_official": false,
+      "originating_queries": [
+        "\"Nike\" news"
+      ],
+      "searxng_engines": [
+        "google cse"
+      ],
+      "discovered_at": "2026-09-25T10:15:55.362412+00:00",
+      "near_duplicate_of": "https://finance.yahoo.com/quote/NKE/",
+      "near_duplicate_score": 0.88
+    },
+    {
+      "title": "NIKE, Inc. | Reuters",
+      "snippet": "The latest international NIKE, Inc. news and views from Reuters - one of the world's largest news agencies.",
+      "canonical_url": "https://reuters.com/company/nike-inc/",
+      "original_url": "https://www.reuters.com/company/nike-inc/",
+      "dedup_key": "reuters.com/company/nike-inc/",
+      "domain": "reuters.com",
+      "source_type": "news",
+      "is_official": false,
+      "originating_queries": [
+        "\"Nike\" news"
+      ],
+      "searxng_engines": [
+        "google cse"
+      ],
+      "discovered_at": "2026-09-25T10:15:55.362412+00:00"
+    },
+    {
+      "title": "Nike Wins Trademark Suit: Delhi Court Orders Destruction Of ...",
+      "snippet": "29 Aug 2026 ... A Commercial Court in Delhi has ordered the destruction of counterfeit Nike shoes bearing the 'Swoosh' and 'Jordan' marks and awarded ₹3.10 ...",
+      "canonical_url": "https://lawbeat.in/news-updates/nike-wins-trademark-suit-delhi-court-orders-destruction-of-counterfeit-shoes-with-swoosh-jordan-marks-awards-31-lakh-damages-1626694",
+      "original_url": "https://lawbeat.in/news-updates/nike-wins-trademark-suit-delhi-court-orders-destruction-of-counterfeit-shoes-with-swoosh-jordan-marks-awards-31-lakh-damages-1626694",
+      "dedup_key": "lawbeat.in/news-updates/nike-wins-trademark-suit-delhi-court-orders-destruction-of-counterfeit-shoes-with-swoosh-jordan-marks-awards-31-lakh-damages-1626694",
+      "domain": "lawbeat.in",
+      "source_type": "other",
+      "is_official": false,
+      "originating_queries": [
+        "\"Nike\" news"
+      ],
+      "searxng_engines": [
+        "google cse"
+      ],
+      "discovered_at": "2026-09-25T10:15:55.362412+00:00"
+    },
+    {
+      "title": "Nike: Trending News, Latest Updates, Analysis - Bloomberg.com",
+      "snippet": "5 hours ago ... See the latest on Nike. From breaking news to in-depth reporting, Bloomberg tracks the full story in real time.",
+      "canonical_url": "https://bloomberg.com/latest/nike",
+      "original_url": "https://bloomberg.com/latest/nike",
+      "dedup_key": "bloomberg.com/latest/nike",
+      "domain": "bloomberg.com",
+      "source_type": "news",
+      "is_official": false,
+      "originating_queries": [
+        "\"Nike\" news"
+      ],
+      "searxng_engines": [
+        "google cse"
+      ],
+      "discovered_at": "2026-09-25T10:15:55.362412+00:00"
+    },
+    {
+      "title": "New & Upcoming Drops. Nike.com",
+      "snippet": "New & Upcoming Drops ; Gender Men Women Unisex ; Kids Boys Girls ; Color Purple Black Red Orange Blue White Brown Green Multi-Color Grey ; Brand Nike Sportswear",
+      "canonical_url": "https://nike.com/w/new-upcoming-drops-k0gk",
+      "original_url": "https://www.nike.com/w/new-upcoming-drops-k0gk",
+      "dedup_key": "nike.com/w/new-upcoming-drops-k0gk",
+      "domain": "nike.com",
+      "source_type": "official",
+      "is_official": true,
+      "originating_queries": [
+        "\"Nike\" news"
+      ],
+      "searxng_engines": [
+        "google cse"
+      ],
+      "discovered_at": "2026-09-25T10:15:55.362412+00:00"
+    },
+    {
+      "title": "Latest News on Nike - The Indian Express",
+      "snippet": "NIKE NEWS · Nike's Alphafly 4 is designed for runners, but it's the tech that makes the shoe unique · Designer turns Nike sneakers into a fully playable Super ...",
+      "canonical_url": "https://indianexpress.com/about/nike/",
+      "original_url": "https://indianexpress.com/about/nike/",
+      "dedup_key": "indianexpress.com/about/nike/",
+      "domain": "indianexpress.com",
+      "source_type": "news",
+      "is_official": false,
+      "originating_queries": [
+        "\"Nike\" news"
+      ],
+      "searxng_engines": [
+        "google cse"
+      ],
+      "discovered_at": "2026-09-25T10:15:55.362412+00:00"
+    },
+    {
+      "title": "Nike Stock Fell 78% And S&P 100 Exit May Mark Capitulation - Forbes",
+      "snippet": "6 Sept 2026 ... Nike's 78% stock drop and removal from the S&P 100 highlight a reset in expectations as the company works to repair its brand, margins and ...",
+      "canonical_url": "https://forbes.com/sites/jimosman/2026/09/06/nike-stock-fell-78-and-sp-100-exit-may-mark-capitulation/",
+      "original_url": "https://www.forbes.com/sites/jimosman/2026/09/06/nike-stock-fell-78-and-sp-100-exit-may-mark-capitulation/",
+      "dedup_key": "forbes.com/sites/jimosman/2026/09/06/nike-stock-fell-78-and-sp-100-exit-may-mark-capitulation/",
+      "domain": "forbes.com",
+      "source_type": "news",
+      "is_official": false,
+      "originating_queries": [
+        "\"Nike\" news"
+      ],
+      "searxng_engines": [
+        "google cse"
+      ],
+      "discovered_at": "2026-09-25T10:15:55.362412+00:00"
+    },
+    {
+      "title": "Nike Share News (NKE) - Investing.com India",
+      "snippet": "NKE News ; Form 4 Nike For: 22 September · 4 hours ago ; Nike vs Deckers: a head-to-head fundamental comparison · 8 hours ago ; Nike receives Investment Bank Analyst ...",
+      "canonical_url": "https://in.investing.com/equities/nike-news",
+      "original_url": "https://in.investing.com/equities/nike-news",
+      "dedup_key": "in.investing.com/equities/nike-news",
+      "domain": "in.investing.com",
+      "source_type": "news",
+      "is_official": false,
+      "originating_queries": [
+        "\"Nike\" news"
+      ],
+      "searxng_engines": [
+        "google cse"
+      ],
+      "discovered_at": "2026-09-25T10:15:55.362412+00:00"
+    },
+    {
+      "title": "Analyst Says Nike's No Longer the Bellwether, Athletic Industry Is ...",
+      "snippet": "2 Sept 2026 ... As CEO Elliott Hill works to rebuild Nike's relationships with wholesale partners, his focus on Nike Running has been deemed a success for the ...",
+      "canonical_url": "https://wwd.com/footwear-news/shoe-industry-news/performance-footwear-on-deckers-amer-wolverine-under-armour-1239194487/",
+      "original_url": "https://wwd.com/footwear-news/shoe-industry-news/performance-footwear-on-deckers-amer-wolverine-under-armour-1239194487/",
+      "dedup_key": "wwd.com/footwear-news/shoe-industry-news/performance-footwear-on-deckers-amer-wolverine-under-armour-1239194487/",
+      "domain": "wwd.com",
+      "source_type": "news",
+      "is_official": false,
+      "originating_queries": [
+        "\"Nike\" news"
+      ],
+      "searxng_engines": [
+        "google cse"
+      ],
+      "discovered_at": "2026-09-25T10:15:55.362412+00:00"
+    },
+    {
+      "title": "Read Customer Service Reviews of www.nike.com - Trustpilot",
+      "snippet": "Nike Reviews. 13,085. Activewear Store · Write a reviewVisit website · Write a ... Review summary. Created with AI, based on recent reviews. Considering 954 ...",
+      "canonical_url": "https://trustpilot.com/review/www.nike.com",
+      "original_url": "https://www.trustpilot.com/review/www.nike.com",
+      "dedup_key": "trustpilot.com/review/www.nike.com",
+      "domain": "trustpilot.com",
+      "source_type": "review",
+      "is_official": false,
+      "originating_queries": [
+        "\"Nike\" review OR reviews"
+      ],
+      "searxng_engines": [
+        "google cse"
+      ],
+      "discovered_at": "2026-09-25T10:15:57.740764+00:00"
+    },
+    {
+      "title": "NIKE Reviews by 300+ Employees | Rated 3.9/5 - AmbitionBox",
+      "snippet": "NIKE is rated 3.9/5, based on 300+ employee reviews on AmbitionBox. NIKE is highly rated for Work-life balance with 4.0/5.",
+      "canonical_url": "https://ambitionbox.com/reviews/nike-reviews",
+      "original_url": "https://www.ambitionbox.com/reviews/nike-reviews",
+      "dedup_key": "ambitionbox.com/reviews/nike-reviews",
+      "domain": "ambitionbox.com",
+      "source_type": "review",
+      "is_official": false,
+      "originating_queries": [
+        "\"Nike\" review OR reviews"
+      ],
+      "searxng_engines": [
+        "google cse"
+      ],
+      "discovered_at": "2026-09-25T10:15:57.740764+00:00"
+    },
+    {
+      "title": "60+ Nike Running Shoe Reviews - RunRepeat",
+      "snippet": "Overall review lists · Similar review lists · Nike categories · Best guides · Partnerships · Content · About.",
+      "canonical_url": "https://runrepeat.com/catalog/nike-running-shoes",
+      "original_url": "https://runrepeat.com/catalog/nike-running-shoes",
+      "dedup_key": "runrepeat.com/catalog/nike-running-shoes",
+      "domain": "runrepeat.com",
+      "source_type": "review",
+      "is_official": false,
+      "originating_queries": [
+        "\"Nike\" review OR reviews"
+      ],
+      "searxng_engines": [
+        "google cse"
+      ],
+      "discovered_at": "2026-09-25T10:15:57.740764+00:00"
+    },
+    {
+      "title": "Nike Pegasus 42 | Full Review - YouTube",
+      "snippet": "17 Mar 2026 ... Thomas reviews the Nike Pegasus 42, a daily trainer that features an engineered mesh upper, ReactX midsole foam, an all-new full length, ...",
+      "canonical_url": "https://youtube.com/watch?v=-wiSUXqjmPA",
+      "original_url": "https://www.youtube.com/watch?v=-wiSUXqjmPA",
+      "dedup_key": "youtube.com/watch?v=-wiSUXqjmPA",
+      "domain": "youtube.com",
+      "source_type": "youtube",
+      "is_official": false,
+      "originating_queries": [
+        "\"Nike\" review OR reviews"
+      ],
+      "searxng_engines": [
+        "google cse"
+      ],
+      "discovered_at": "2026-09-25T10:15:57.740764+00:00"
+    },
+    {
+      "title": "The 8 Best Nike Running Shoes of 2026 - Runner's World",
+      "snippet": "Why Trust Us? Best Nike Running Shoes; How We Selected; Full Reviews; What to Consider; Nike Running Shoes FAQ ... Nike Vomero 18 Review. Best Value and Stability ...",
+      "canonical_url": "https://runnersworld.com/gear/a22843945/best-nike-running-shoes/",
+      "original_url": "https://www.runnersworld.com/gear/a22843945/best-nike-running-shoes/",
+      "dedup_key": "runnersworld.com/gear/a22843945/best-nike-running-shoes/",
+      "domain": "runnersworld.com",
+      "source_type": "other",
+      "is_official": false,
+      "originating_queries": [
+        "\"Nike\" review OR reviews"
+      ],
+      "searxng_engines": [
+        "google cse"
+      ],
+      "discovered_at": "2026-09-25T10:15:57.740764+00:00"
+    },
+    {
+      "title": "Nike.com - Google",
+      "snippet": "Do not buy from Nike they do not honour their warranty I bought Nike Air Max Plus shoes from nike.com in 2025 as a student who saved up to afford them.",
+      "canonical_url": "https://google.com/storepages?c=US&q=nike.com&v=19",
+      "original_url": "https://www.google.com/storepages?q=nike.com&c=US&v=19",
+      "dedup_key": "google.com/storepages?c=US&q=nike.com&v=19",
+      "domain": "google.com",
+      "source_type": "other",
+      "is_official": false,
+      "originating_queries": [
+        "\"Nike\" review OR reviews"
+      ],
+      "searxng_engines": [
+        "google cse"
+      ],
+      "discovered_at": "2026-09-25T10:15:57.740764+00:00"
+    },
+    {
+      "title": "Nike Pegasus 42 Review: Time to Put the Peg out to Pasture?",
+      "snippet": "9 Apr 2026 ... As is the case with most Nike's the grip and traction were fine. I have not extensively tested it in all environments as we are blessed with ...",
+      "canonical_url": "https://meta-endurance.com/nike-pegasus-42-review/",
+      "original_url": "https://meta-endurance.com/nike-pegasus-42-review/",
+      "dedup_key": "meta-endurance.com/nike-pegasus-42-review/",
+      "domain": "meta-endurance.com",
+      "source_type": "other",
+      "is_official": false,
+      "originating_queries": [
+        "\"Nike\" review OR reviews"
+      ],
+      "searxng_engines": [
+        "google cse"
+      ],
+      "discovered_at": "2026-09-25T10:15:57.740764+00:00"
+    },
+    {
+      "title": "NIKE MIND 001 REVIEW - On feet, comfort, weight ... - YouTube",
+      "snippet": "6 Jan 2026 ... \"What if you could enhance your pre-game routine with a mind-altering shoe? Meet the Nike Mind. Its large outsole nodes push against your ...",
+      "canonical_url": "https://youtube.com/watch?v=VmyIWdR8_5o",
+      "original_url": "https://www.youtube.com/watch?v=VmyIWdR8_5o",
+      "dedup_key": "youtube.com/watch?v=VmyIWdR8_5o",
+      "domain": "youtube.com",
+      "source_type": "youtube",
+      "is_official": false,
+      "originating_queries": [
+        "\"Nike\" review OR reviews"
+      ],
+      "searxng_engines": [
+        "google cse"
+      ],
+      "discovered_at": "2026-09-25T10:15:57.740764+00:00"
+    },
+    {
+      "title": "Nike Ja 3 Performance Review - WearTesters",
+      "snippet": "Indoors, however, they are a fantastic choice. Nike Ja 3 lateral side view. Cushion. The cushioning setup is what ...",
+      "canonical_url": "https://weartesters.com/nike-ja-3-performance-review/",
+      "original_url": "https://weartesters.com/nike-ja-3-performance-review/",
+      "dedup_key": "weartesters.com/nike-ja-3-performance-review/",
+      "domain": "weartesters.com",
+      "source_type": "review",
+      "is_official": false,
+      "originating_queries": [
+        "\"Nike\" review OR reviews"
+      ],
+      "searxng_engines": [
+        "google cse"
+      ],
+      "discovered_at": "2026-09-25T10:15:57.740764+00:00"
+    },
+    {
+      "title": "NIKE Reviews - Glassdoor",
+      "snippet": "NIKE has an employee rating of 3.9 out of 5 stars, based on 13,327 company reviews on Glassdoor which indicates that most employees have a good working ...",
+      "canonical_url": "https://glassdoor.co.in/Reviews/NIKE-Reviews-E1699.htm",
+      "original_url": "https://www.glassdoor.co.in/Reviews/NIKE-Reviews-E1699.htm",
+      "dedup_key": "glassdoor.co.in/Reviews/NIKE-Reviews-E1699.htm",
+      "domain": "glassdoor.co.in",
+      "source_type": "review",
+      "is_official": false,
+      "originating_queries": [
+        "\"Nike\" review OR reviews"
+      ],
+      "searxng_engines": [
+        "google cse"
+      ],
+      "discovered_at": "2026-09-25T10:15:57.740764+00:00"
+    },
+    {
+      "title": "How do I write a Nike product review or share my Nike look?",
+      "snippet": "When you're shopping on Nike.com and in the Nike App, on product pages, you may see reviews from other customers and images showing how others are wearing the ...",
+      "canonical_url": "https://nike.com/si/help/a/reviews",
+      "original_url": "https://www.nike.com/si/help/a/reviews",
+      "dedup_key": "nike.com/si/help/a/reviews",
+      "domain": "nike.com",
+      "source_type": "official",
+      "is_official": true,
+      "originating_queries": [
+        "\"Nike\" review OR reviews"
+      ],
+      "searxng_engines": [
+        "google cse"
+      ],
+      "discovered_at": "2026-09-25T10:15:57.740764+00:00"
+    },
+    {
+      "title": "Nike Reviews: Customer Reviews & Ratings | MouthShut.com",
+      "snippet": "I recently bought a pair of shoes by Nike, and I must say that I am extremely pleased with the level of comfort provided and the overall quality of the ...",
+      "canonical_url": "https://mouthshut.com/product-reviews/nike-footwear-reviews-925738410",
+      "original_url": "https://www.mouthshut.com/product-reviews/nike-footwear-reviews-925738410",
+      "dedup_key": "mouthshut.com/product-reviews/nike-footwear-reviews-925738410",
+      "domain": "mouthshut.com",
+      "source_type": "review",
+      "is_official": false,
+      "originating_queries": [
+        "\"Nike\" review OR reviews"
+      ],
+      "searxng_engines": [
+        "google cse"
+      ],
+      "discovered_at": "2026-09-25T10:15:57.740764+00:00"
+    },
+    {
+      "title": "Nike Defy All Day Sneakers Men Reviews - Flipkart",
+      "snippet": "Read Latest Reviews of Nike Defy All Day Sneakers Men on Flipkart.com. Find genuine customer reviews and ratings. Buy Nike Defy All Day Sneakers Men at best ...",
+      "canonical_url": "https://flipkart.com/nike-defy-all-day-sneakers-men/product-reviews/itm9a74c15bdaf81",
+      "original_url": "https://www.flipkart.com/nike-defy-all-day-sneakers-men/product-reviews/itm9a74c15bdaf81",
+      "dedup_key": "flipkart.com/nike-defy-all-day-sneakers-men/product-reviews/itm9a74c15bdaf81",
+      "domain": "flipkart.com",
+      "source_type": "ecommerce",
+      "is_official": false,
+      "originating_queries": [
+        "\"Nike\" review OR reviews"
+      ],
+      "searxng_engines": [
+        "google cse"
+      ],
+      "discovered_at": "2026-09-25T10:15:57.740764+00:00"
+    },
+    {
+      "title": "NIKE Reviews in India | Glassdoor",
+      "snippet": "Employees in India have given NIKE a rating of 3.4 out of 5 stars, based on 205 company reviews on Glassdoor. This indicates that most employees have a good ...",
+      "canonical_url": "https://glassdoor.co.in/Reviews/NIKE-India-Reviews-EI_IE1699.0,4_IL.5,10_IN115.htm",
+      "original_url": "https://www.glassdoor.co.in/Reviews/NIKE-India-Reviews-EI_IE1699.0,4_IL.5,10_IN115.htm",
+      "dedup_key": "glassdoor.co.in/Reviews/NIKE-India-Reviews-EI_IE1699.0,4_IL.5,10_IN115.htm",
+      "domain": "glassdoor.co.in",
+      "source_type": "review",
+      "is_official": false,
+      "originating_queries": [
+        "\"Nike\" review OR reviews"
+      ],
+      "searxng_engines": [
+        "google cse"
+      ],
+      "discovered_at": "2026-09-25T10:15:57.740764+00:00"
+    },
+    {
+      "title": "Nike Reviews - Read 552 Genuine Customer Reviews | www.nike.com",
+      "snippet": "Nike has collected 552 reviews with an average score of 3.25. There are 309 customers that ❤ Nike, rating them as good.",
+      "canonical_url": "https://reviews.io/company-reviews/store/nike",
+      "original_url": "https://www.reviews.io/company-reviews/store/nike",
+      "dedup_key": "reviews.io/company-reviews/store/nike",
+      "domain": "reviews.io",
+      "source_type": "other",
+      "is_official": false,
+      "originating_queries": [
+        "\"Nike\" review OR reviews"
+      ],
+      "searxng_engines": [
+        "google cse"
+      ],
+      "discovered_at": "2026-09-25T10:15:57.740764+00:00"
+    },
+    {
+      "title": "Nike Structure Plus | Full Review - YouTube",
+      "snippet": "29 Jan 2026 ... Thomas and Robbe review the Nike Structure Plus, a stability shoe ... reviews of running shoes, running gear, and running races.",
+      "canonical_url": "https://youtube.com/watch?v=bVdQvdd04dE",
+      "original_url": "https://www.youtube.com/watch?v=bVdQvdd04dE",
+      "dedup_key": "youtube.com/watch?v=bVdQvdd04dE",
+      "domain": "youtube.com",
+      "source_type": "youtube",
+      "is_official": false,
+      "originating_queries": [
+        "\"Nike\" review OR reviews"
+      ],
+      "searxng_engines": [
+        "google cse"
+      ],
+      "discovered_at": "2026-09-25T10:15:57.740764+00:00"
+    },
+    {
+      "title": "Cut in half: Nike Vomero Premium Review (2025) - RunRepeat",
+      "snippet": "30 Oct 2025 ... We believe the Nike Vomero Premium isn't the best option for runners seeking performance or versatility for a wide range of paces. Based on our ...",
+      "canonical_url": "https://runrepeat.com/nike-vomero-premium",
+      "original_url": "https://runrepeat.com/nike-vomero-premium",
+      "dedup_key": "runrepeat.com/nike-vomero-premium",
+      "domain": "runrepeat.com",
+      "source_type": "review",
+      "is_official": false,
+      "originating_queries": [
+        "\"Nike\" review OR reviews"
+      ],
+      "searxng_engines": [
+        "google cse"
+      ],
+      "discovered_at": "2026-09-25T10:15:57.740764+00:00"
+    },
+    {
+      "title": "Nike Pegasus Premium Review | Is it a running shoe? - YouTube",
+      "snippet": "26 Nov 2025 ... In today's video, Thys reviews one of the most talked-about Nike releases of the year: the Nike Pegasus Premium. A controversial model that ...",
+      "canonical_url": "https://youtube.com/watch?v=EBwycUrwOaA&vl=en",
+      "original_url": "https://www.youtube.com/watch?v=EBwycUrwOaA&vl=en",
+      "dedup_key": "youtube.com/watch?v=EBwycUrwOaA&vl=en",
+      "domain": "youtube.com",
+      "source_type": "youtube",
+      "is_official": false,
+      "originating_queries": [
+        "\"Nike\" review OR reviews"
+      ],
+      "searxng_engines": [
+        "google cse"
+      ],
+      "discovered_at": "2026-09-25T10:15:57.740764+00:00"
+    },
+    {
+      "title": "164 Nike Running Shoes Reviews (September 2026)",
+      "snippet": "Nike Running Shoes Reviews. Some dismiss Nike as a marketing brand, but Nike ... ” Read expert review. Brandon Law. Marathon Runner and Shoe Expert. Nike ...",
+      "canonical_url": "https://runningshoesguru.com/reviews/nike/all/",
+      "original_url": "https://www.runningshoesguru.com/reviews/nike/all/",
+      "dedup_key": "runningshoesguru.com/reviews/nike/all/",
+      "domain": "runningshoesguru.com",
+      "source_type": "review",
+      "is_official": false,
+      "originating_queries": [
+        "\"Nike\" review OR reviews"
+      ],
+      "searxng_engines": [
+        "google cse"
+      ],
+      "discovered_at": "2026-09-25T10:15:57.740764+00:00"
+    },
+    {
+      "title": "Nike A'One Performance Review - YouTube",
+      "snippet": "28 May 2025 ... Hey Guys! Here is our detailed Nike A'One Performance Review. Buy at Nike: https://go.weartesters.com/ElqTTQu Buy at Foot Locker: ...",
+      "canonical_url": "https://youtube.com/watch?v=o7RtJg2-e0M",
+      "original_url": "https://www.youtube.com/watch?v=o7RtJg2-e0M",
+      "dedup_key": "youtube.com/watch?v=o7RtJg2-e0M",
+      "domain": "youtube.com",
+      "source_type": "youtube",
+      "is_official": false,
+      "originating_queries": [
+        "\"Nike\" review OR reviews"
+      ],
+      "searxng_engines": [
+        "google cse"
+      ],
+      "discovered_at": "2026-09-25T10:15:57.740764+00:00"
+    },
+    {
+      "title": "Nike Customer Service. Nike.com",
+      "snippet": "Quick Assists. Answers to our most frequently asked questions are just one click away. Returns & Exchanges. What is Nike's return policy?",
+      "canonical_url": "https://nike.com/help/",
+      "original_url": "https://www.nike.com/help/",
+      "dedup_key": "nike.com/help/",
+      "domain": "nike.com",
+      "source_type": "official",
+      "is_official": true,
+      "originating_queries": [
+        "\"Nike\" complaint OR problem OR issue"
+      ],
+      "searxng_engines": [
+        "google cse"
+      ],
+      "discovered_at": "2026-09-25T10:16:01.396909+00:00"
+    },
+    {
+      "title": "Call us at 000 800 040 5043 - Nike.in",
+      "snippet": "Call at 1800 210 0202. 7 days a week, 10AM - 10PM. icon. Chat with us. 7 days a week, 10AM - 10PM. icon. Write to us. We'll reply within 24 hours.",
+      "canonical_url": "https://nike.in/help-center/talk-to-us",
+      "original_url": "https://www.nike.in/help-center/talk-to-us",
+      "dedup_key": "nike.in/help-center/talk-to-us",
+      "domain": "nike.in",
+      "source_type": "other",
+      "is_official": false,
+      "originating_queries": [
+        "\"Nike\" complaint OR problem OR issue"
+      ],
+      "searxng_engines": [
+        "google cse"
+      ],
+      "discovered_at": "2026-09-25T10:16:01.396909+00:00"
+    },
+    {
+      "title": "Help Center - Nike.in",
+      "snippet": "Shipping and Dispatch. Refunds. Warranty. Order Status and Issues. Returns and Replacement. Others. Need more help? icon. Get in touch.",
+      "canonical_url": "https://nike.in/help-center",
+      "original_url": "https://www.nike.in/help-center",
+      "dedup_key": "nike.in/help-center",
+      "domain": "nike.in",
+      "source_type": "other",
+      "is_official": false,
+      "originating_queries": [
+        "\"Nike\" complaint OR problem OR issue"
+      ],
+      "searxng_engines": [
+        "google cse"
+      ],
+      "discovered_at": "2026-09-25T10:16:01.396909+00:00"
+    },
+    {
+      "title": "Do Nike Shoes Have a Warranty? | Nike Help",
+      "snippet": "Brief explanation of the issue with the swimwear. Send your product to: Nike Swimwear Customer Support/Nike Claim Perry Ellis International Attn: Quality ...",
+      "canonical_url": "https://nike.com/help/a/shoe-warranty",
+      "original_url": "https://www.nike.com/help/a/shoe-warranty",
+      "dedup_key": "nike.com/help/a/shoe-warranty",
+      "domain": "nike.com",
+      "source_type": "official",
+      "is_official": true,
+      "originating_queries": [
+        "\"Nike\" complaint OR problem OR issue"
+      ],
+      "searxng_engines": [
+        "google cse"
+      ],
+      "discovered_at": "2026-09-25T10:16:01.396909+00:00"
+    },
+    {
+      "title": "OECD complaint against Nike by 20 Garment Sector Unions, AFWA ...",
+      "snippet": "Fact Sheet: OECD complaint against Nike by 20 Garment Sector Unions, AFWA, GLJ-ILRF. Twenty garment sector unions, Asia Floor Wage Alliance (AFWA) and Global ...",
+      "canonical_url": "https://asia.floorwage.org/statement/oecd-nike/",
+      "original_url": "https://asia.floorwage.org/statement/oecd-nike/",
+      "dedup_key": "asia.floorwage.org/statement/oecd-nike/",
+      "domain": "asia.floorwage.org",
+      "source_type": "other",
+      "is_official": false,
+      "originating_queries": [
+        "\"Nike\" complaint OR problem OR issue"
+      ],
+      "searxng_engines": [
+        "google cse"
+      ],
+      "discovered_at": "2026-09-25T10:16:01.396909+00:00"
+    },
+    {
+      "title": "Corporate Contact Options | Nike Help",
+      "snippet": "Nike Support Contact Options. No matter where you made your Nike purchase, there are support options for ...",
+      "canonical_url": "https://nike.com/help/a/nike-contact-directory",
+      "original_url": "https://www.nike.com/help/a/nike-contact-directory",
+      "dedup_key": "nike.com/help/a/nike-contact-directory",
+      "domain": "nike.com",
+      "source_type": "official",
+      "is_official": true,
+      "originating_queries": [
+        "\"Nike\" complaint OR problem OR issue"
+      ],
+      "searxng_engines": [
+        "google cse"
+      ],
+      "discovered_at": "2026-09-25T10:16:01.396909+00:00"
+    },
+    {
+      "title": "Urgent: Issue with Approval of Nike ASINs - Amazon Seller Central",
+      "snippet": "15 May 2024 ... Urgent: Issue with Approval of Nike ASINs.. Hello everyone,. I'm a seasoned seller on Amazon, and I've recently encountered a ...",
+      "canonical_url": "https://sellercentral.amazon.in/seller-forums/discussions/t/ba7121ca-cd36-4596-90ff-df52b6a8b9ac",
+      "original_url": "https://sellercentral.amazon.in/seller-forums/discussions/t/ba7121ca-cd36-4596-90ff-df52b6a8b9ac",
+      "dedup_key": "sellercentral.amazon.in/seller-forums/discussions/t/ba7121ca-cd36-4596-90ff-df52b6a8b9ac",
+      "domain": "sellercentral.amazon.in",
+      "source_type": "ecommerce",
+      "is_official": false,
+      "originating_queries": [
+        "\"Nike\" complaint OR problem OR issue"
+      ],
+      "searxng_engines": [
+        "google cse"
+      ],
+      "discovered_at": "2026-09-25T10:16:01.396909+00:00"
+    },
+    {
+      "title": "Nike Customer Care No.",
+      "snippet": "3 Apr 2026 ... For any query/complaint regarding return/refund/warranty you can contact the customer support team. ... Nike India Pvt Ltd. Ground and 1st Floor ...",
+      "canonical_url": "https://indiacustomercare.com/nike-toll-free-no-1800-344-6453",
+      "original_url": "https://www.indiacustomercare.com/nike-toll-free-no-1800-344-6453",
+      "dedup_key": "indiacustomercare.com/nike-toll-free-no-1800-344-6453",
+      "domain": "indiacustomercare.com",
+      "source_type": "other",
+      "is_official": false,
+      "originating_queries": [
+        "\"Nike\" complaint OR problem OR issue"
+      ],
+      "searxng_engines": [
+        "google cse"
+      ],
+      "discovered_at": "2026-09-25T10:16:01.396909+00:00"
+    },
+    {
+      "title": "(PDF) An Analysis of Nike's Issues and Strategic Solutions",
+      "snippet": "Through research, it can be seen that Nike currently faces issues such as supply chain issues, brand localization deficiency, and product innovation deficiency.",
+      "canonical_url": "https://researchgate.net/publication/394142858_An_Analysis_of_Nike's_Issues_and_Strategic_Solutions",
+      "original_url": "https://www.researchgate.net/publication/394142858_An_Analysis_of_Nike's_Issues_and_Strategic_Solutions",
+      "dedup_key": "researchgate.net/publication/394142858_An_Analysis_of_Nike's_Issues_and_Strategic_Solutions",
+      "domain": "researchgate.net",
+      "source_type": "other",
+      "is_official": false,
+      "originating_queries": [
+        "\"Nike\" complaint OR problem OR issue"
+      ],
+      "searxng_engines": [
+        "google cse"
+      ],
+      "discovered_at": "2026-09-25T10:16:01.396909+00:00"
+    },
+    {
+      "title": "Nike India Consumer Care Policy",
+      "snippet": "Nike's decision in respect of the claim product shall be final and confidential. If Nike is unable to process the claim on the basis of the information or ...",
+      "canonical_url": "https://nike.in/cp/india-consumer-care-policy",
+      "original_url": "https://www.nike.in/cp/india-consumer-care-policy",
+      "dedup_key": "nike.in/cp/india-consumer-care-policy",
+      "domain": "nike.in",
+      "source_type": "other",
+      "is_official": false,
+      "originating_queries": [
+        "\"Nike\" complaint OR problem OR issue"
+      ],
+      "searxng_engines": [
+        "google cse"
+      ],
+      "discovered_at": "2026-09-25T10:16:01.396909+00:00"
+    },
+    {
+      "title": "Terms and Conditions of Sale – India - Nike.in",
+      "snippet": "1.2 Nike India Private Limited has its registered office at Ground and First Floor, Olympia Building, No.66/1, Bagmane Tech Park, CV Raman Nagar, Bangalore - ...",
+      "canonical_url": "https://nike.in/cp/terms-conditions",
+      "original_url": "https://www.nike.in/cp/terms-conditions",
+      "dedup_key": "nike.in/cp/terms-conditions",
+      "domain": "nike.in",
+      "source_type": "other",
+      "is_official": false,
+      "originating_queries": [
+        "\"Nike\" complaint OR problem OR issue"
+      ],
+      "searxng_engines": [
+        "google cse"
+      ],
+      "discovered_at": "2026-09-25T10:16:01.396909+00:00"
+    },
+    {
+      "title": "File a Consumer Complaint Against Nike India - Voxya",
+      "snippet": "How to file a Complaint against Nike India? File a Complaint and let our experts help you in taking legal action and getting resolution. Get refund, replacement ...",
+      "canonical_url": "https://voxya.com/company/nike-india-complaints/1251192",
+      "original_url": "https://voxya.com/company/nike-india-complaints/1251192",
+      "dedup_key": "voxya.com/company/nike-india-complaints/1251192",
+      "domain": "voxya.com",
+      "source_type": "review",
+      "is_official": false,
+      "originating_queries": [
+        "\"Nike\" complaint OR problem OR issue"
+      ],
+      "searxng_engines": [
+        "google cse"
+      ],
+      "discovered_at": "2026-09-25T10:16:01.396909+00:00"
+    },
+    {
+      "title": "Nike India Private Limited v. Harnoor Sidhu | Judgment | Law",
+      "snippet": "5 Oct 2016 ... The appellant, Nike India Private Limited, filed an appeal against an order dated 16.8.2016 passed by the District Consumer Disputes Redressal ...",
+      "canonical_url": "https://casemine.com/judgement/in/590a26d54a932663936e84f1",
+      "original_url": "https://www.casemine.com/judgement/in/590a26d54a932663936e84f1",
+      "dedup_key": "casemine.com/judgement/in/590a26d54a932663936e84f1",
+      "domain": "casemine.com",
+      "source_type": "other",
+      "is_official": false,
+      "originating_queries": [
+        "\"Nike\" complaint OR problem OR issue"
+      ],
+      "searxng_engines": [
+        "google cse"
+      ],
+      "discovered_at": "2026-09-25T10:16:01.396909+00:00"
+    },
+    {
+      "title": "Nike faces federal probe over allegations of discrimination against ...",
+      "snippet": "5 Feb 2026 ... ... Nike for allegedly discriminating against white employees ... The investigation against Nike, however, does not stem from any worker complaint ...",
+      "canonical_url": "https://npr.org/2026/02/05/g-s1-108780/nike-federal-probe-discrimination-white-workers",
+      "original_url": "https://www.npr.org/2026/02/05/g-s1-108780/nike-federal-probe-discrimination-white-workers",
+      "dedup_key": "npr.org/2026/02/05/g-s1-108780/nike-federal-probe-discrimination-white-workers",
+      "domain": "npr.org",
+      "source_type": "news",
+      "is_official": false,
+      "originating_queries": [
+        "\"Nike\" complaint OR problem OR issue"
+      ],
+      "searxng_engines": [
+        "google cse"
+      ],
+      "discovered_at": "2026-09-25T10:16:01.396909+00:00"
+    },
+    {
+      "title": "Nike Inc | BBB Complaints | Better Business Bureau",
+      "snippet": "Initial Complaint. Date:09/03/2026. Type: Service ...",
+      "canonical_url": "https://bbb.org/us/or/beaverton/profile/retail-sportswear/nike-inc-1296-6025241/complaints",
+      "original_url": "https://www.bbb.org/us/or/beaverton/profile/retail-sportswear/nike-inc-1296-6025241/complaints",
+      "dedup_key": "bbb.org/us/or/beaverton/profile/retail-sportswear/nike-inc-1296-6025241/complaints",
+      "domain": "bbb.org",
+      "source_type": "review",
+      "is_official": false,
+      "originating_queries": [
+        "\"Nike\" complaint OR problem OR issue"
+      ],
+      "searxng_engines": [
+        "google cse"
+      ],
+      "discovered_at": "2026-09-25T10:16:01.396909+00:00"
+    },
+    {
+      "title": "Get Help from Nike Customer Support for all Queries",
+      "snippet": "Get help from Nike UAE's dedicated customer support team! Find answers to common questions, track orders & more. Visit our help center now for solutions!",
+      "canonical_url": "https://nike.ae/en/customer-support/",
+      "original_url": "https://www.nike.ae/en/customer-support/",
+      "dedup_key": "nike.ae/en/customer-support/",
+      "domain": "nike.ae",
+      "source_type": "other",
+      "is_official": false,
+      "originating_queries": [
+        "\"Nike\" complaint OR problem OR issue"
+      ],
+      "searxng_engines": [
+        "google cse"
+      ],
+      "discovered_at": "2026-09-25T10:16:01.396909+00:00"
+    },
+    {
+      "title": "Resolve your Nike Complaints for free",
+      "snippet": "31 Aug 2026 ... Solve your Nike Complaints and know your rights with Resolver – the free, independent complaint-resolution tool endorsed by ...",
+      "canonical_url": "https://resolver.co.uk/companies/nike-complaints",
+      "original_url": "https://www.resolver.co.uk/companies/nike-complaints",
+      "dedup_key": "resolver.co.uk/companies/nike-complaints",
+      "domain": "resolver.co.uk",
+      "source_type": "other",
+      "is_official": false,
+      "originating_queries": [
+        "\"Nike\" complaint OR problem OR issue"
+      ],
+      "searxng_engines": [
+        "google cse"
+      ],
+      "discovered_at": "2026-09-25T10:16:01.396909+00:00"
+    },
+    {
+      "title": "Nike sweatshops - Wikipedia",
+      "snippet": "Nike, Inc. has been using sweatshops and worker abuse to produce footwear and apparel in East Asia. After rising prices and the increasing cost of labor in ...",
+      "canonical_url": "https://en.wikipedia.org/wiki/Nike_sweatshops",
+      "original_url": "https://en.wikipedia.org/wiki/Nike_sweatshops",
+      "dedup_key": "en.wikipedia.org/wiki/Nike_sweatshops",
+      "domain": "en.wikipedia.org",
+      "source_type": "other",
+      "is_official": false,
+      "originating_queries": [
+        "\"Nike\" complaint OR problem OR issue"
+      ],
+      "searxng_engines": [
+        "google cse"
+      ],
+      "discovered_at": "2026-09-25T10:16:01.396909+00:00"
+    },
+    {
+      "title": "Nike Customer Service Number: Quick Ways to Call the Shoe Brand",
+      "snippet": "Nike's customer service number is 1-800-806-6453. You can also contact Nike customer service by visiting their online help page and chatting with a ...",
+      "canonical_url": "https://wikihow.com/Contact-Nike",
+      "original_url": "https://www.wikihow.com/Contact-Nike",
+      "dedup_key": "wikihow.com/Contact-Nike",
+      "domain": "wikihow.com",
+      "source_type": "other",
+      "is_official": false,
+      "originating_queries": [
+        "\"Nike\" complaint OR problem OR issue"
+      ],
+      "searxng_engines": [
+        "google cse"
+      ],
+      "discovered_at": "2026-09-25T10:16:01.396909+00:00"
+    },
+    {
+      "title": "Nike Texas Longhorns Youth Burnt Orange Team Issue Football ...",
+      "snippet": "Nike Texas Longhorns Youth Burnt Orange Team Issue Football Short Sleeve T-Shirt, Burnt Orange, 100% COTTON, Size XL. Explore · Mens Fashion · Men's Shirts And ...",
+      "canonical_url": "https://pinterest.com/pin/nike-texas-longhorns-youth-burnt-orange-team-issue-football-short-sleeve-tshirt-burnt-orange-100-cotton-size-xl--99571841759627622/",
+      "original_url": "https://www.pinterest.com/pin/nike-texas-longhorns-youth-burnt-orange-team-issue-football-short-sleeve-tshirt-burnt-orange-100-cotton-size-xl--99571841759627622/",
+      "dedup_key": "pinterest.com/pin/nike-texas-longhorns-youth-burnt-orange-team-issue-football-short-sleeve-tshirt-burnt-orange-100-cotton-size-xl--99571841759627622/",
+      "domain": "pinterest.com",
+      "source_type": "social_media",
+      "is_official": false,
+      "originating_queries": [
+        "\"Nike\" complaint OR problem OR issue"
+      ],
+      "searxng_engines": [
+        "google cse"
+      ],
+      "discovered_at": "2026-09-25T10:16:01.396909+00:00"
+    }
+  ]
+}

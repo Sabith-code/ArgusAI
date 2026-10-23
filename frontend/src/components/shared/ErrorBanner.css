@@ -1,0 +1,22 @@
+.error-banner {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  padding: 0.875rem 1.25rem;
+  background: var(--color-critical-bg);
+  border: 1px solid rgba(239, 68, 68, 0.3);
+  border-radius: var(--radius-md);
+  color: var(--color-critical);
+}
+.error-icon { font-size: 1.25rem; }
+.error-text { flex: 1; font-size: 0.875rem; }
+.error-retry-btn {
+  padding: 0.375rem 1rem;
+  background: var(--color-critical);
+  color: white;
+  border-radius: var(--radius-sm);
+  font-size: 0.8rem;
+  font-weight: 600;
+  transition: opacity var(--transition-fast);
+}
+.error-retry-btn:hover { opacity: 0.85; }

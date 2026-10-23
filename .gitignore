@@ -1,0 +1,142 @@
+# ============================================================
+# Git Ignore Configuration
+# Brand Reputation Early-Warning System (Brand Reputation Monitor)
+# ============================================================
+
+# ---------------------------
+# Operating System & Editors
+# ---------------------------
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+[Dd]esktop.ini
+
+# IDEs & Editors
+.idea/
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.sublime-workspace
+*.sublime-project
+*.swp
+*.swo
+*~
+
+# ---------------------------
+# Python & Bytecode
+# ---------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+
+# Distribution / Packaging
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environments
+.venv/
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Testing & Coverage
+.pytest_cache/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.nox/
+.tox/
+
+# ---------------------------
+# Environment Variables & Secrets
+# ---------------------------
+.env
+.env*.local
+!.env.example
+
+# ---------------------------
+# Logs & Databases
+# ---------------------------
+*.log
+logs/
+*.sqlite3
+*.db
+
+# ---------------------------
+# Temporary & Scratch Files
+# ---------------------------
+tmp/
+scratch/
+test_output.json
+*.bak
+*.orig
+
+# ---------------------------
+# Playwright & Browser Artifacts
+# ---------------------------
+playwright/.cache/
+test-results/
+playwright-report/
+blob-report/
+playwright/.auth/
+
+# ---------------------------
+# Machine Learning & Model Caches
+# ---------------------------
+.huggingface/
+huggingface/
+models/
+*.bin
+*.safetensors
+*.pt
+*.pth
+*.onnx
+
+# ---------------------------
+# Node / Frontend Artifacts
+# ---------------------------
+frontend/node_modules/
+node_modules/
+frontend/dist/
+frontend/dist-ssr/
+frontend/.vite/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+.npm/
+
+# ---------------------------
+# Docker Local Overrides
+# ---------------------------
+docker-compose.override.yml

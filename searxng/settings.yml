@@ -1,0 +1,17 @@
+# SearXNG configuration for Brand Reputation Monitor
+# Inherits all defaults (engines, UI, etc.) and only overrides what's needed.
+# See: https://docs.searxng.org/admin/settings/settings.html
+
+use_default_settings: true
+
+server:
+  # Internal session secret for SearXNG's web UI CSRF protection.
+  # Not an API credential — only relevant to SearXNG's own web interface.
+  # Change this to a random string in production.
+  secret_key: "brand-monitor-local-dev-a7f3b9c2e1d4"
+
+search:
+  # Enable JSON output format so the discovery layer can query programmatically.
+  formats:
+    - html
+    - json
